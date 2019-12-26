@@ -2,9 +2,13 @@
 
 ## REACTJS, REACT-NATIVE E NODE.JS
 ![GOBARBER](https://user-images.githubusercontent.com/28990749/71473973-164f8f80-27b8-11ea-954c-e7f777f9d896.png)
+### No web é a parte gerencial na qual o prestador de serviço pode visualizar seus compromissos com os clientes e ver toda sua agenda. Também, consegue atualizar seu perfil com foto, nome, email e nova senha. Além disso, possui uma área de notificação para ficar sempre informado.
+### No mobile também é possível atualizar o perfil, ver os agendamentos realizados com quais prestadores e em qual horário. Assim, sendo possível marcas novos agendamentos e cancelar se estiver há duas horas do compromisso.
 
-## **Aplicação desenvolvida desde o backend ao frontEnd**
+
 ### VÍDEO NO YOUTUBE [ASSISTIR](https://www.youtube.com/watch?v=b5KSBVBwP24&t=6s)
+
+# Libs usadas no desenvolvimento
 ## NODE
   - bee-queue para o envio de email
   - cors para liberar o acesso ao frontEnd
