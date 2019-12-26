@@ -21,5 +21,18 @@
   - sucrase para usar a nova sintaxe de import
   - youch para retornar os erros 
   - yup para validação de dados
-2. REACTJS
-3. REACT-NATIVE
+## REACTJS
+  
+## REACT-NATIVE
+  - @react-native-community/async-storage novo asyncStorage 
+  - axios fazer requisições 
+  - date-fns mesmo do node
+  - immer conseguir mudar o estado no reducer
+  - prop-types validar propriedades 
+  - react-native-linear-gradient
+  - react-native-vector-icons
+  - react-redux para a arquitetura flux
+  - reactotron-react-native para facilitar o dev
+  - redux-saga
+  - redux-persist
+  - styled-components 
