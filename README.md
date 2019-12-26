@@ -22,6 +22,22 @@
   - youch para retornar os erros 
   - yup para validação de dados
 ## REACTJS
+  - @rocketseat/unform para gerenciar formulários
+  - axios
+  - history para redirecionar o usuário
+  - polished
+  - prop-types
+  - react-icons
+  - react-perfect-scrollbar para as notificações 
+  - react-redux
+  - react-toastify para popups
+  - reactotron-redux
+  - redux
+  - redux-persist
+  - redux-saga
+  - styled-components
+  - yup
+  
   
 ## REACT-NATIVE
   - @react-native-community/async-storage novo asyncStorage 
