@@ -7,6 +7,7 @@
 
 
 ### VÍDEO NO YOUTUBE [ASSISTIR](https://www.youtube.com/watch?v=b5KSBVBwP24&t=6s)
+### VÍDEO NO LINKEDIN [ASSISTIR](https://www.linkedin.com/posts/ismael-moreira-de-sousa-20234213b_react-javascript-fullstack-activity-6591014748253417472-ECrj)
 
 # Libs usadas no desenvolvimento
 ## NODE
